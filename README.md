@@ -200,6 +200,30 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="praydog--reframework"></div>
+
+### praydog--REFramework
+
+🔗 [source](https://github.com/praydog/REFramework) – [<code><small>v1.5.9.1</small></code>](https://github.com/praydog/REFramework/releases/tag/v1.5.9.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `DD2.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/praydog/REFramework/DD2.zip) |
+| `DMC5.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/praydog/REFramework/DMC5.zip) |
+| `MHRISE.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/praydog/REFramework/MHRISE.zip) |
+| `MHWILDS.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/praydog/REFramework/MHWILDS.zip) |
+| `RE2.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/praydog/REFramework/RE2.zip) |
+| `RE2_TDB66.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/praydog/REFramework/RE2_TDB66.zip) |
+| `RE3.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/praydog/REFramework/RE3.zip) |
+| `RE3_TDB67.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/praydog/REFramework/RE3_TDB67.zip) |
+| `RE4.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/praydog/REFramework/RE4.zip) |
+| `RE7.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/praydog/REFramework/RE7.zip) |
+| `RE7_TDB49.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/praydog/REFramework/RE7_TDB49.zip) |
+| `RE8.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/praydog/REFramework/RE8.zip) |
+| `SF6.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/praydog/REFramework/SF6.zip) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
