@@ -19,4 +19,4 @@ KaringX/karing|\.dmg|\.exe
 # masterking32/MasterDnsVPN|Client_MacOS_AMD64.zip|Client_Windows_AMD64.zip
 
 # 6. No filter - keep all assets from the release 
-praydog/REFramework
+praydog/REFramework-nightly
