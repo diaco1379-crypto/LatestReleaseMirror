@@ -20,3 +20,6 @@ KaringX/karing|\.dmg|\.exe
 
 # 6. No filter - keep all assets from the release 
 praydog/REFramework-nightly
+
+# 6. No filter - keep all assets from the release 
+iampedii/WhiteDNS
