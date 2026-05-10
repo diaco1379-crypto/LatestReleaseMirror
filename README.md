@@ -200,6 +200,29 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="iampedii--whitedns"></div>
+
+### iampedii--WhiteDNS
+
+🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.0.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.0.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `SHA256SUMS.txt` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/SHA256SUMS.txt) |
+| `WhiteDNS-1.0.0-THIRD_PARTY_NOTICES.md` | 3 KB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-THIRD_PARTY_NOTICES.md) |
+| `WhiteDNS-1.0.0-arm64-v8a.apk` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-arm64-v8a.apk) |
+| `WhiteDNS-1.0.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-arm64-v8a.apk.idsig) |
+| `WhiteDNS-1.0.0-armeabi-v7a.apk` | 4.8 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-armeabi-v7a.apk) |
+| `WhiteDNS-1.0.0-armeabi-v7a.apk.idsig` | 46 KB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-armeabi-v7a.apk.idsig) |
+| `WhiteDNS-1.0.0-universal.apk` | 16.2 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-universal.apk) |
+| `WhiteDNS-1.0.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-universal.apk.idsig) |
+| `WhiteDNS-1.0.0-x86.apk` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-x86.apk) |
+| `WhiteDNS-1.0.0-x86.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-x86.apk.idsig) |
+| `WhiteDNS-1.0.0-x86_64.apk` | 5.2 MB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-x86_64.apk) |
+| `WhiteDNS-1.0.0-x86_64.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/diaco1379-crypto/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-x86_64.apk.idsig) |
+
+---
+
 <div id="praydog--reframework-nightly"></div>
 
 ### praydog--REFramework-nightly
